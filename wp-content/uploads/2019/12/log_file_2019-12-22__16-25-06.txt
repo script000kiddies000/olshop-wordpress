@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Tokoo - Elementor were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/cp4
+Data file = /var/www/html/cp4/wp-content/themes/tokoo/assets/dummy-data/elementor/dummy-data.xml
+Widget file = /var/www/html/cp4/wp-content/themes/tokoo/assets/dummy-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+tokoo_options -> /var/www/html/cp4/wp-content/themes/tokoo/assets/dummy-data/elementor/redux-options.json 
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Categories - Post Categories - Imported
+Archives - No Title - Imported
+Tag Cloud - No Title - Imported
+Meta - No Title - Imported
+Calendar - No Title - Imported
+
+Shop Sidebar : 
+
+Product Categories - Categories - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Rating - Rating - Imported
+Filter Products by Price - Price - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+
+Footer Column 1 : 
+
+Text - Need help? - Imported
+Text - Join Our Newsletter - Imported
+
+Footer Column 2 : 
+
+Product Categories - Product categories - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Customers Area - Imported
+
+Footer Column 4 : 
+
+Text - Download Apps - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: tokoo_options finished successfully!
+
+---pt-ocdi/after_import---
+
